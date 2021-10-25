@@ -17,8 +17,7 @@ This repo contains material about the following course:
 You can find the following material in the repo:
 
 * graphs/ - Network graphs used in labs.
-* kali/ - Kali-dedicated laboratory sessions.
-* simulatore/ - Packet Tracer-dedicated laboratory sessions.
+* cifrari-kali/ - Kali-dedicated laboratory sessions.
 
 ## Authors
 
